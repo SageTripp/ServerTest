@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PluginProjectConfig">
+    <option name="path" value="$PROJECT_DIR$/src/db" />
+    <option name="sql" value="INPUT SQL HERE JUST LIKE BELOW  &#10;&#10;CREATE TABLE user&#10;(&#10;    id INT PRIMARY KEY NOT NULL,&#10;    name VARCHAR(50) NOT NULL,&#10;    pass VARCHAR(50) NOT NULL&#10;);&#10;CREATE UNIQUE INDEX user_id_uindex ON user (id)" />
+  </component>
+</project>
