@@ -7,8 +7,6 @@ package action;
 public class DataAction extends Action {
 
     public String getData() throws Exception {
-
-
         return NONE;
     }
 
